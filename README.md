@@ -8,6 +8,6 @@ Please refer more details to demo.m.
 Download our trained models
 [here](http://www.ics.uci.edu/~peiyunh/public/rg-aflw/).
 
-See [our code and models](http://www.ics.uci.edu/~peiyunh/public/rg-aflw/) for
+See [our code and models](https://github.com/peiyunh/rg-aflw/) for
 human keypoints localization on [MPII](http://human-pose.mpi-inf.mpg.de/)
 dataset.
