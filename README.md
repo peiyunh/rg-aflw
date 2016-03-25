@@ -5,4 +5,4 @@ Please use [MatConvNet](https://github.com/vlfeat/matconvnet) to run the models 
 
 Please refer more details to demo.m.
 
-Download our models [here](http://www.ics.uci.edu/~peiyunh/public/rg-aflw/).
+Download our trained models [here](http://www.ics.uci.edu/~peiyunh/public/rg-aflw/).
